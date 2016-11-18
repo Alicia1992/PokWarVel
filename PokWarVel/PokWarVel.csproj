@@ -122,9 +122,11 @@
     <Content Include="Content\animate.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\documenter_style.css" />
     <Content Include="Content\font-awesome.min.css" />
     <Content Include="Content\lightbox.css" />
     <Content Include="Content\main.css" />
+    <Content Include="Content\prettify.css" />
     <Content Include="Content\prettyPhoto.css" />
     <Content Include="Content\responsive.css" />
     <Content Include="favicon.ico" />
@@ -240,6 +242,7 @@
     <Content Include="Images\ico\apple-touch-icon-57-precomposed.png" />
     <Content Include="Images\ico\apple-touch-icon-72-precomposed.png" />
     <Content Include="Images\ico\favicon.ico" />
+    <Content Include="Images\info.png" />
     <Content Include="Images\lightbox\close.png" />
     <Content Include="Images\lightbox\loading.gif" />
     <Content Include="Images\lightbox\next.png" />
@@ -287,6 +290,7 @@
     <Content Include="Images\services\2.png" />
     <Content Include="Images\services\3.png" />
     <Content Include="Images\services\4.png" />
+    <Content Include="Images\warning.png" />
     <Content Include="Scripts\audio.min.js" />
     <Content Include="Scripts\audiojs.swf" />
     <Content Include="Scripts\bootstrap.js" />
@@ -307,9 +311,11 @@
     <Content Include="Scripts\jquery-1.10.2.min.js" />
     <None Include="Scripts\jquery.validate-vsdoc.js" />
     <Content Include="Scripts\jquery.countTo.js" />
+    <Content Include="Scripts\jquery.easing.js" />
     <Content Include="Scripts\jquery.fitvids.js" />
     <Content Include="Scripts\jquery.isotope.min.js" />
     <Content Include="Scripts\jquery.js" />
+    <Content Include="Scripts\jquery.scrollTo.js" />
     <Content Include="Scripts\jquery.validate.js" />
     <Content Include="Scripts\jquery.validate.min.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
@@ -318,8 +324,10 @@
     <Content Include="Scripts\main.js" />
     <Content Include="Scripts\masonry.min.js" />
     <Content Include="Scripts\modernizr-2.6.2.js" />
+    <Content Include="Scripts\prettify.js" />
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
+    <Content Include="Scripts\script.js" />
     <Content Include="Scripts\wow.min.js" />
     <Content Include="Scripts\_references.js" />
     <Content Include="Web.config" />
